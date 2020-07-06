@@ -1,0 +1,5 @@
+Difference between add, commit, and push:
+
+1. add is for adding local change(s) to staging before commit;
+2. commit is for commit changes in staging to local repo;
+3. push is for push all local commits to remote repo.
